@@ -6,4 +6,3 @@ console.log(y);
 console.log(x);
 
 //la variabkle x sale del ambito de ejecucion//
-}
